@@ -1,0 +1,8 @@
+*.cs diff=csharp text
+*.shader text
+*.mat merge=unityyamlmerge
+*.anim merge=unityyamlmerge
+*.unity merge=unityyamlmerge
+*.prefab merge=unityyamlmerge
+*.asset merge=unityyamlmerge
+*.meta merge=unityyamlmerge
